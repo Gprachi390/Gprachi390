@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi</h1>
-<h3 align="center">A passionate learner</h3>
+
 
 - 📫 How to reach me **gprachi390@gmail.com**
 
@@ -9,8 +9,5 @@
 <a href="https://fb.com/prachi.gupta1328/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/prachi.gupta1328/" height="30" width="40" /></a>
 <a href="https://medium.com/@gprachi390" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gprachi390" height="30" width="40" /></a>
 </p>
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gprachi390&show_icons=true&locale=en&layout=compact" alt="gprachi390" /></p>
 
